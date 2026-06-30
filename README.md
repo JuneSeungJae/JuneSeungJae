@@ -4,7 +4,7 @@
 **JuneSeungJae/JuneSeungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+# 👋 안녕하세요, 백엔드 개발자 [이름]입니다!
+
+> "효율적인 서버 아키텍처와 안정적인 데이터 흐름을 고민합니다."
+
+- 🚀 **Focus:** Java / Spring Boot 기반의 탄탄한 백엔드 시스템 구축
+- 🎮 **Background:** Unity와 C#을 다루며 다진 논리적 사고를 바탕으로, 현재는 웹 백엔드 및 웹 서비스 개발에 집중하고 있습니다.
+- 🌱 **Learning:** 더 나은 사용자 경험을 위해 Next.js와 Tailwind CSS를 활용한 모던 프론트엔드 스택도 꾸준히 학습 중입니다.
+
+
 ### 🛠 Tech Stacks
 
 **Backend & Database**
@@ -37,3 +45,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 </p>
 
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radial&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=radial&hide_border=true" />
+</p>
