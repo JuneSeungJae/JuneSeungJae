@@ -53,3 +53,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ZeAte&show_icons=true&theme=radial&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeAte&layout=compact&theme=radial&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JuneSeungJae&theme=radial&no-bg=true" />
+</p>
