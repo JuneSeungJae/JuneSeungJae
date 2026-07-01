@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🔥 Strategic Projects
 
-### 👁️ Project Management Tool
+### 👁️ LMS_Project_EduSys
 > "네트워크 독립성과 데이터 보안을 최우선으로 고려한 팀 전용 일정 관리 솔루션"
 
 - **Core:** 사내/폐쇄망 환경에서도 안정적으로 동작하는 독립형 프로젝트 및 멤버 관리 시스템
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎮 Roguelike UI Project
+### 🎮 PPE-Monitoring-Dashboard
 > "사용자 몰입감을 극대화하는 컴포넌트 기반의 모던 웹 인터페이스"
 
 - **Core:** 판타지 로그라이크 세계관(Tower of Winter 기반)을 웹으로 이식한 인터랙티브 UI
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 💰 Finance Management App
+### 💰 PMS-Team-Project
 > "안정적인 데이터 파싱과 결함 방지를 위한 자산 관리 시스템"
 
 - **Core:** 복잡한 수입/지출 데이터를 분석하고 예외를 최소화한 순수 Java 기반의 금융 관리 애플리케이션
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧠 Advanced CNN Model Experiment
+### 🧠 DarkRevenger
 > "구조적 파라미터 최적화를 통한 이미지 분류 모델의 성능 한계 극복"
 
 - **Core:** CIFAR-10 데이터셋 분석을 기반으로 성능을 고도화한 딥러닝 이미지 분류 실험
