@@ -46,17 +46,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 </p>
 
+## 📊 Analytics & Impact
 
-### 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeAte&show_icons=true&theme=radial&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeAte&layout=compact&theme=radial&hide_border=true" />
-</p>
+<img src="https://github-trophies.vercel.app/?username=JuneSeungJae&theme=radical&margin-w=15" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=JuneSeungJae&show_icons=true&hide_border=true&theme=radical" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=JuneSeungJae&layout=compact&hide_border=true&theme=radical" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=parknahye-dot&theme=radical&hide_border=true" height="170"/><br>
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-JuneSeungJae-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/github/followers/JuneSeungJae?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/stars/JuneSeungJae?style=for-the-badge&color=yellow">
-</p>
+![JuneSeungJae's github contribution grid](https://ghchart.rshah.org/2ecc71/JuneSeungJae)
+
+</div>
