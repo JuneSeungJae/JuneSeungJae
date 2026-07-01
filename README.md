@@ -54,7 +54,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeAte&layout=compact&theme=radial&hide_border=true" />
 </p>
 
-### 🟩 3D Contributions
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=JuneSeungJae&theme=radar" />
+  <img src="https://img.shields.io/badge/GitHub-JuneSeungJae-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/github/followers/JuneSeungJae?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/stars/JuneSeungJae?style=for-the-badge&color=yellow">
 </p>
